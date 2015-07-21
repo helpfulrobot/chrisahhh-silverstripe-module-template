@@ -1,21 +1,21 @@
 {
-  "name": "your-vendor-name/module-name",
-  "description": "One-liner describing your module",
+  "name": "chrisahhh/silverstripe-module-template",
+  "description": "Silverstripe module template",
   "type": "silverstripe-module",
-  "homepage": "http://github.com/your-vendor-name/module-name",
-  "keywords": ["silverstripe", "some-tag", "some-other-tag"],
+  "homepage": "http://github.com/chrisahhh/silverstripe-module-template",
+  "keywords": ["silverstripe", "module", "template"],
   "license": "BSD-3-Clause",
   "authors": [
-    {"name": "Your Name","email": "your@email.com"}
+    {"name": "Chris Barrett","email": "christopherwalkerbarrett@gmail.com"}
   ],
   "support": {
-    "issues": "http://github.com/your-vendor-name/module-name/issues"
+    "issues": "http://github.com/chrisahhh/silverstripe-module-template/issues"
   },
   "require": {
     "silverstripe/cms": "~3.1",
     "silverstripe/framework": "~3.1"
   },
   "extra": {
-    "installer-name": "module-name"
+    "installer-name": "slverstripe-module-template"
   }
 }
