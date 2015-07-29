@@ -22,5 +22,5 @@ before_script:
  - cd ~/builds/ss
 
 script: 
- - vendor/bin/phpunit MODULE_NAME/tests/
+ - vendor/bin/phpunit <module-name>/tests/
 

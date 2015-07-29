@@ -11,10 +11,6 @@
   "support": {
     "issues": "http://github.com/chrisahhh/silverstripe-module-template/issues"
   },
-  "require": {
-    "silverstripe/cms": "~3.1",
-    "silverstripe/framework": "~3.1"
-  },
   "extra": {
     "installer-name": "slverstripe-module-template"
   }
